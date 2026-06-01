@@ -1,0 +1,25 @@
+{
+  "name": "Kronos — Calendário & Tarefas",
+  "short_name": "Kronos",
+  "description": "Calendário e gestão de tarefas pessoal",
+  "start_url": "/Calendarioulsts/",
+  "scope": "/Calendarioulsts/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#5b4ef5",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
